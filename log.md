@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 21, 2018 
+### Day 1: October 21, 2018 
 
 **Today's Progress**: Completed FCC's Basic HTML and HTML5
 
@@ -8,14 +8,13 @@
 
 **Link to work:** https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: October 21, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Basic CSS lesson
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The lessons are pretty straightforward. I plan on finishing the total number of lessons tomorrow.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday
