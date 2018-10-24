@@ -8,7 +8,7 @@
 
 **Link to work:** https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
 
-### Day 2: October 21, 2018
+### Day 2: October 22, 2018
 
 **Today's Progress**: Started Basic CSS lesson
 
@@ -17,12 +17,11 @@
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 1: October 23, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed a few more sections of Basic CSS.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I didn't do as much as I could have because we had an emergency but I'll power through it tomorrow.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
